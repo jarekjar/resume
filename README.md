@@ -69,5 +69,5 @@ GPULookup
 
 ----
 
-> <jaredkjar@example.com> • 27 years old
+> <jaredkjar@gmail.com> • 27 years old
 > Los Angeles, CA
