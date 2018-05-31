@@ -11,16 +11,18 @@ Education
 ---------
 
 2017 - 2018
-:   **.Net Stack Coding Bootcamp**; Sabio (Culver City, CA)
+:   **.Net Stack Coding Bootcamp**
+      Sabio (Culver City, CA)
 
 2010 - 2014
-:   **AA, Recording Technology**; Citrus College (Glendora, CA)
+:   **AA, Recording Technology**
+      Citrus College (Glendora, CA)
 
 
 Experience
 ----------
 
-**C# Applications Developer**
+**C# Applications Developer**  
 **C.R. Laurence Co., Inc.**
 
 Los Angeles, CA  
@@ -38,7 +40,7 @@ April 2018 - Present
 
 * Provided application support to multiple businesses globally.
 
-**Full Stack Developer**
+**Full Stack Developer**  
 **[Babel Dabble LLC](http://www.babeldabble.com)**
 
 
