@@ -60,7 +60,7 @@ Technical Experience
 --------------------
 
 GPULookup
-[Link to github repo](github.com/jarekjar/GPULookup)
+[Link to github repo](https://www.github.com/jarekjar/GPULookup)
 
     * GPULookup is a web scraper / full stack web application that scrapes
     the internet for the cheapest Computer GPU prices, and displays them.
