@@ -20,17 +20,22 @@ Education
 Experience
 ----------
 
-**C# Applications Developer
-C.R. Laurence Co., Inc.**
+**C# Applications Developer**
+**C.R. Laurence Co., Inc.**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+April 2018 - Present
 
-* First item
+* Utilized design and development skills in .NET/C# to create high functioning/highly integrated applications for the internal site.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Worked as part of an established, experienced development team to build best in class applications to both external and internal customers.
+
+* Designed, developed and deployed new application components using .NET/C#, internal frameworks and 3rd party tools.
+
+* Contributed new ideas/best practices.
+
+* Facilitated communication and collaboration with business users and peer technology teams.
+
+* Provided application support to multiple businesses globally.
 
 **That Other Job You Had**
 
