@@ -60,26 +60,13 @@ Technical Experience
 --------------------
 
 GPULookup
-[github.com/jarekjar/GPULookup](Link to github repo)
+[Link to github repo](github.com/jarekjar/GPULookup)
 
     * GPULookup is a web scraper / full stack web application that scrapes
     the internet for the cheapest Computer GPU prices, and displays them.
     * GPULookup was built using SQL, ASP.NET Web Api 2.0, and React.
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <jaredkjar@example.com> • 27 years old
+> Los Angeles, CA
