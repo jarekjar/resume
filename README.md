@@ -11,11 +11,11 @@ Education
 ---------
 
 2017 - 2018  
-:   **.Net Stack Coding Bootcamp**  
+   **.Net Stack Coding Bootcamp**  
       Sabio (Culver City, CA)
 
 2010 - 2014  
-:   **AA, Recording Technology**  
+   **AA, Recording Technology**  
       Citrus College (Glendora, CA)
 
 
