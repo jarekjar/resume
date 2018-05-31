@@ -23,7 +23,7 @@ Experience
 **C# Applications Developer**
 **C.R. Laurence Co., Inc.**
 
-Los Angeles, CA
+Los Angeles, CA  
 April 2018 - Present
 
 * Utilized design and development skills in .NET/C# to create high functioning/highly integrated applications for the internal site.
@@ -42,7 +42,7 @@ April 2018 - Present
 **[Babel Dabble LLC](http://www.babeldabble.com)**
 
 
-Culver City, CA
+Culver City, CA  
 September 2017 - March 2018
 
 * Implemented a writing canvas using AngularJS that takes chinese characters and detects user input to match the strokes of the character.
@@ -64,7 +64,8 @@ GPULookup
 
     * GPULookup is a web scraper / full stack web application that scrapes
     the internet for the cheapest Computer GPU prices, and displays them.
-    * GPULookup was built using SQL, ASP.NET Web Api 2.0, and React.
+    * Also allows for manual edit/delete.
+    * GPULookup was built using SQL, ASP.NET Web Api 2, and React.
 
 ----
 
