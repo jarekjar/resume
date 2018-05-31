@@ -3,7 +3,7 @@ Jared Kjar
 
 ----
 
->  Full Stack Software Developer - ASP.NET Web API - AngularJS - SQL  
+>  Full Stack Software Developer - ASP.NET Web API - C# - AngularJS - SQL - React - AWS - Git - TFS - VS2017  
 
 ----
 
@@ -11,9 +11,9 @@ Education
 ---------
 
 2017 - 2018
-:   **.Net Stack**; Sabio (Culver City, CA)
+:   **.Net Stack Coding Bootcamp**; Sabio (Culver City, CA)
 
-2010-2014
+2010 - 2014
 :   **AA, Recording Technology**; Citrus College (Glendora, CA)
 
 
@@ -23,6 +23,7 @@ Experience
 **C# Applications Developer**
 **C.R. Laurence Co., Inc.**
 
+Los Angeles, CA
 April 2018 - Present
 
 * Utilized design and development skills in .NET/C# to create high functioning/highly integrated applications for the internal site.
@@ -37,48 +38,33 @@ April 2018 - Present
 
 * Provided application support to multiple businesses globally.
 
-**That Other Job You Had**
+**Full Stack Developer**
+**[Babel Dabble LLC](http://www.babeldabble.com)**
 
-Also with a short description.
+
+Culver City, CA
+September 2017 - March 2018
+
+* Implemented a writing canvas using AngularJS that takes chinese characters and detects user input to match the strokes of the character.
+
+* Used WebSockets via SignalR for real-time gameplay, as well as statistical data gathering/analysis.
+
+* Created command line applications in C#  for load testing the game server and inserting/updating the database with chinese character data.
+
+* Wrote stored procedures for SQL Server 2016 using JSON reading and writing functionality, including table design and schema.
+
+* Created a file storage serviced backed by Amazon Web Services S3, utilizing AWS SDK for .NET to interact with the S3 API.
+
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+GPULookup
+[github.com/jarekjar/GPULookup](Link to github repo)
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
+    * GPULookup is a web scraper / full stack web application that scrapes
+    the internet for the cheapest Computer GPU prices, and displays them.
+    * GPULookup was built using SQL, ASP.NET Web Api 2.0, and React.
 
 Extra Section, Call it Whatever You Want
 ----------------------------------------
