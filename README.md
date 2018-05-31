@@ -10,12 +10,12 @@ Jared Kjar
 Education
 ---------
 
-2017 - 2018
-:   **.Net Stack Coding Bootcamp**
+2017 - 2018  
+:   **.Net Stack Coding Bootcamp**  
       Sabio (Culver City, CA)
 
-2010 - 2014
-:   **AA, Recording Technology**
+2010 - 2014  
+:   **AA, Recording Technology**  
       Citrus College (Glendora, CA)
 
 
