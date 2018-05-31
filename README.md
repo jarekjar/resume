@@ -10,17 +10,18 @@ Jared Kjar
 Education
 ---------
 
-2017 - 2018 (expected)
+2017 - 2018
 :   **.Net Stack**; Sabio (Culver City, CA)
 
-2007-2010
+2010-2014
 :   **AA, Recording Technology**; Citrus College (Glendora, CA)
 
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**C# Applications Developer
+C.R. Laurence Co., Inc.**
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
